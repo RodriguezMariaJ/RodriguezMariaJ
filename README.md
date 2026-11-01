@@ -3,6 +3,11 @@
 <!--
 **RodriguezMariaJ/RodriguezMariaJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I am a Professor of Physics at [Utah State University](https://www.usu.edu/) in the [Department of Physics](https://www.usu.edu/physics/) and co-lead the [Quantum and Gravitation Interactions Initiative](https://github.com/settings/profile). Before this I was a Postdoctoral Fellow at the [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/) in Potsdam, Germany, and in the [Department of Physics at Harvard University](https://www.physics.harvard.edu/).
+
+I'm open to collaboration and supervising students on projects involving gravitational physics / physics-informed machine learning. Check out my [Love numbers with PINNs](https://github.com/YOUR-USERNAME/YOUR-REPO) repository for our latest work on computing tidal Love numbers to high precision with physics-informed neural networks.
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
